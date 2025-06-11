@@ -21,7 +21,6 @@ The Banking Management System is a application that simulates basic banking oper
 ## Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/CK172005/CS201_Project in an IDE
    
 2. Run Project
    bash
